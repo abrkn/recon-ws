@@ -1,0 +1,30 @@
+{
+  "name": "recon-ws",
+  "version": "1.0.0",
+  "description": "Auto reconnecting websocket client",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abrkn/recon-ws.git"
+  },
+  "keywords": [
+    "websocket",
+    "websocket",
+    "client",
+    "ws",
+    "ws",
+    "client",
+    "reconnect",
+    "retry"
+  ],
+  "author": "Andreas Brekken <a@abrkn.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrkn/recon-ws/issues"
+  },
+  "homepage": "https://github.com/abrkn/recon-ws",
+  "dependencies": {
+    "ws": "*"
+  }
+}
